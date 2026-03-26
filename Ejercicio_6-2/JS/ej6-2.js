@@ -15,7 +15,7 @@ function CalculoLetras() {
     
     } 
 
-    document.getElementById("output").innerHTML = `La frase tiene ${calculo} letras a`
+    document.getElementById("output").innerHTML = `La frase tiene ${calculo} letras a`;
 
 }
  
