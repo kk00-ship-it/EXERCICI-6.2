@@ -9,7 +9,7 @@ function CalculoLetras() {
 
     for(let i = 0; i < Array_frase.length; i++){
      
-      if(Array_frase[i] == "a"){
+      if(Array_frase[i] == "a" || Array_frase[i] == "A"){
         calculo++;        
       }
     
